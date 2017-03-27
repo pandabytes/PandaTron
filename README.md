@@ -1,4 +1,4 @@
-# PandaTron"
+# PandaTron
 
 This game is made in Unity.
 
