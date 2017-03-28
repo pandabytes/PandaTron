@@ -1,6 +1,6 @@
 # PandaTron
 
-This game is made in Unity.
+This game is made in Unity. Playtest video can be found here https://www.youtube.com/watch?v=r7_2UboE0MI&t=141s.
 
 ![1](https://cloud.githubusercontent.com/assets/18756606/24375895/e168ee3c-12ee-11e7-8259-ce97fa6bb261.PNG)
 
